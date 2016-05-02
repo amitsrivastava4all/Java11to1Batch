@@ -1,0 +1,8 @@
+.fa-cart-plus{
+	color: red;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+body,h1,h2,h3,h4,h5,h6,span,p{
+	font-family: 'Roboto Slab', serif;
+}
